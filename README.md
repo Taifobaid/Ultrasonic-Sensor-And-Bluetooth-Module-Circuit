@@ -31,4 +31,5 @@ void loop()
   }  
 }
 ```
-![Uploading schematic_2.png…]()
+![schematic_2](https://user-images.githubusercontent.com/67175109/126713994-18b287f3-c1a3-48bc-aa2a-67d00f91d666.png)
+
